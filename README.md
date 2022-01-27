@@ -1,0 +1,3 @@
+# My First Visual Studio Django Project
+
+Built from the [Learn Django in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/python/learn-django-in-visual-studio-step-01-project-and-solution?view=vs-2022 "https://docs.microsoft.com/en-us/visualstudio/python/learn-django-in-visual-studio-step-01-project-and-solution?view=vs-2022") tutorial.  This issue with this was that there were some issues where some of the steps were from very old versions of Django.  Keeping for posterity sake.  However, this is definitely **high on the delete list** if I need to start clearing out space on GitHub.
